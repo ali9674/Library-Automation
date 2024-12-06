@@ -1,0 +1,82 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style TargetType="Button">
+        <Setter Property="FontFamily" Value="Bahnschrift"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="#4f7492"
+ 
+                        CornerRadius="10">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                      VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="Trasparent_oval_btn" TargetType="Button">
+        <Setter Property="FontFamily" Value="Bahnschrift"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="FontStretch" Value="Expanded"/>
+        <Setter Property="Foreground" Value="white"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="Transparent"
+ 
+                        CornerRadius="6">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                      VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+     <!-- the button that Elif sends-->
+
+    <Style x:Key="RoundedButton" TargetType="Button">
+        <Setter Property="FontFamily" Value="Bahnschrift"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="#3a4146"
+ 
+                        CornerRadius="10">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                      VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="Blackbackground_btn" TargetType="Button"> <!--back groundu siyah olan oval butn-->
+        <Setter Property="FontFamily" Value="Bahnschrift"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="#111111"
+ 
+                     CornerRadius="10">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+
+
+
+
+
+
+</ResourceDictionary>

@@ -1,0 +1,20 @@
+﻿<Application x:Class="LibraryOtomation.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:LibraryOtomation"
+             StartupUri="Books.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles/Round_combobox.xaml"/>
+                <ResourceDictionary Source="Styles/RoundedButton.xaml"/>
+                <ResourceDictionary Source="Styles/RoundedTextBox.xaml"/>
+                <ResourceDictionary Source="Styles/HastaEkranıRoundedButton.xaml"/>
+                <ResourceDictionary Source="Styles/Progressbar_Style.xaml"/>
+
+            </ResourceDictionary.MergedDictionaries>
+
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
