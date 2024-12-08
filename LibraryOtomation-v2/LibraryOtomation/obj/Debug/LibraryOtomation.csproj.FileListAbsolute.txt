@@ -1,0 +1,159 @@
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.exe.config
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.exe
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.pdb
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.AssemblyReference.cache
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\HastaEkranıRoundedButton.baml
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\RoundedButton.baml
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\RoundedTextBox.baml
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\Round_combobox.baml
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\Round_progressbar.baml
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\MainWindow.g.cs
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\Members.g.cs
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\App.g.cs
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation_MarkupCompile.cache
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation_MarkupCompile.lref
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\App.baml
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\MainWindow.baml
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\Members.baml
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.g.resources
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Properties.Resources.resources
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.GenerateResource.cache
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.CoreCompileInputs.cache
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.exe
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.pdb
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\Books.g.cs
+C:\Users\Ali_1\source\repos\LibraryOtomation\LibraryOtomation\obj\Debug\Books.baml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.exe.config
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.exe
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.pdb
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.dll
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\System.Buffers.dll
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\System.Memory.dll
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.xml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\System.Buffers.xml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\System.Memory.xml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.AssemblyReference.cache
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\HastaEkranıRoundedButton.baml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\RoundedButton.baml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\RoundedTextBox.baml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\Round_combobox.baml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\Round_progressbar.baml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\Books.g.cs
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\MainWindow.g.cs
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\Members.g.cs
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\App.g.cs
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation_MarkupCompile.cache
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation_MarkupCompile.lref
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\App.baml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\Books.baml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\MainWindow.baml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\Members.baml
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.g.resources
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Properties.Resources.resources
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.GenerateResource.cache
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.CoreCompileInputs.cache
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryO.5E025870.Up2Date
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.exe
+C:\Users\Ali_1\Desktop\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.pdb
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.exe.config
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.exe
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.pdb
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\System.Buffers.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\System.Memory.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\System.Buffers.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\System.Memory.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.AssemblyReference.cache
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\HastaEkranıRoundedButton.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\RoundedButton.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\RoundedTextBox.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\Round_combobox.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\Styles\Round_progressbar.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\Books.g.cs
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\MainWindow.g.cs
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\Members.g.cs
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\App.g.cs
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation_MarkupCompile.cache
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation_MarkupCompile.lref
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\App.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\Books.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\MainWindow.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\Members.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.g.resources
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Properties.Resources.resources
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.GenerateResource.cache
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.CoreCompileInputs.cache
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryO.5E025870.Up2Date
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.exe
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.pdb
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\LibraryOtomation.exe.config
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\LibraryOtomation.exe
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\LibraryOtomation.pdb
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\EntityFramework.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\System.Buffers.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\System.Memory.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\EntityFramework.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\System.Buffers.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\System.Memory.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.AssemblyReference.cache
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\Styles\HastaEkranıRoundedButton.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\Styles\RoundedButton.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\Styles\RoundedTextBox.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\Styles\Round_combobox.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\Books.g.cs
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\MainWindow.g.cs
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\Members.g.cs
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\App.g.cs
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\LibraryOtomation_MarkupCompile.cache
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\LibraryOtomation_MarkupCompile.lref
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\App.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\Books.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\MainWindow.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\Members.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\LibraryOtomation.g.resources
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\LibraryOtomation.Properties.Resources.resources
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.GenerateResource.cache
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.CoreCompileInputs.cache
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\LibraryO.5E025870.Up2Date
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\LibraryOtomation.exe
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\LibraryOtomation.pdb
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\Styles\Progressbar_Style.baml
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\Mainmenu.g.cs
+C:\Users\Ali_1\Desktop\bitirme projesş\LibraryOtomation - Kopya\LibraryOtomation\obj\Debug\Mainmenu.baml

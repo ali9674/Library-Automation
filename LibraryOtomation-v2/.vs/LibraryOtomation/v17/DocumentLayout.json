@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09B90D-B1B4-4F2B-8024-3A4434BA82C3}|LibraryOtomation\\LibraryOtomation.csproj|c:\\users\\ali_1\\desktop\\bitirme projes\u015F\\libraryotomation - kopya\\libraryotomation\\mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D09B90D-B1B4-4F2B-8024-3A4434BA82C3}|LibraryOtomation\\LibraryOtomation.csproj|solutionrelative:libraryotomation\\mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09B90D-B1B4-4F2B-8024-3A4434BA82C3}|LibraryOtomation\\LibraryOtomation.csproj|C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\libraryotomation\\mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D09B90D-B1B4-4F2B-8024-3A4434BA82C3}|LibraryOtomation\\LibraryOtomation.csproj|solutionrelative:libraryotomation\\mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09B90D-B1B4-4F2B-8024-3A4434BA82C3}|LibraryOtomation\\LibraryOtomation.csproj|C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\libraryotomation\\styles\\roundedbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D09B90D-B1B4-4F2B-8024-3A4434BA82C3}|LibraryOtomation\\LibraryOtomation.csproj|solutionrelative:libraryotomation\\styles\\roundedbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09B90D-B1B4-4F2B-8024-3A4434BA82C3}|LibraryOtomation\\LibraryOtomation.csproj|C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\libraryotomation\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D09B90D-B1B4-4F2B-8024-3A4434BA82C3}|LibraryOtomation\\LibraryOtomation.csproj|solutionrelative:libraryotomation\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D09B90D-B1B4-4F2B-8024-3A4434BA82C3}|LibraryOtomation\\LibraryOtomation.csproj|C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\libraryotomation\\books.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D09B90D-B1B4-4F2B-8024-3A4434BA82C3}|LibraryOtomation\\LibraryOtomation.csproj|solutionrelative:libraryotomation\\books.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 328,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mainmenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\LibraryOtomation\\Mainmenu.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryOtomation\\Mainmenu.xaml.cs",
+              "ToolTip": "C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\LibraryOtomation\\Mainmenu.xaml.cs",
+              "RelativeToolTip": "LibraryOtomation\\Mainmenu.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAKwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:11:30.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoundedButton.xaml",
+              "DocumentMoniker": "C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\LibraryOtomation\\Styles\\RoundedButton.xaml",
+              "RelativeDocumentMoniker": "LibraryOtomation\\Styles\\RoundedButton.xaml",
+              "ToolTip": "C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\LibraryOtomation\\Styles\\RoundedButton.xaml",
+              "RelativeToolTip": "LibraryOtomation\\Styles\\RoundedButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T17:09:12.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\LibraryOtomation\\App.xaml",
+              "RelativeDocumentMoniker": "LibraryOtomation\\App.xaml",
+              "ToolTip": "C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\LibraryOtomation\\App.xaml",
+              "RelativeToolTip": "LibraryOtomation\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T16:16:50.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mainmenu.xaml",
+              "DocumentMoniker": "C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\LibraryOtomation\\Mainmenu.xaml",
+              "RelativeDocumentMoniker": "LibraryOtomation\\Mainmenu.xaml",
+              "ToolTip": "C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\LibraryOtomation\\Mainmenu.xaml",
+              "RelativeToolTip": "LibraryOtomation\\Mainmenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T15:14:31.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Books.xaml",
+              "DocumentMoniker": "C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\LibraryOtomation\\Books.xaml",
+              "RelativeDocumentMoniker": "LibraryOtomation\\Books.xaml",
+              "ToolTip": "C:\\Users\\Ali_1\\Desktop\\bitirme projes\u015F\\LibraryOtomation - Kopya\\LibraryOtomation\\Books.xaml",
+              "RelativeToolTip": "LibraryOtomation\\Books.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T20:21:22.447Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

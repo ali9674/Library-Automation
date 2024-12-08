@@ -1,0 +1,29 @@
+﻿<Window x:Class="LibraryOtomation.Mainmenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryOtomation"
+        mc:Ignorable="d"
+        Title="Mainmenu" Height="675" Width="1275">
+    <Grid Background="#222222">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.05*"/>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition Height="0.9*"/>
+
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="1" Background="#d06302"  Orientation="Horizontal" >
+            <Button x:Name="Member_btn" Style="{StaticResource Selected_btn}" Content="Members"   Background="Black" Height="60" Width="140" FontSize="30" Margin="20,0,0,0" MouseMove="Member_btn_MouseMove" MouseLeave="Member_btn_MouseLeave" Click="Member_btn_Click" />
+            <Button x:Name="Member_settings_btn" Style="{StaticResource not_Selected_btn}" Content="Member Settings"   Background="Black" Height="60" Width="260" FontSize="30" Margin="20,0,0,0" MouseMove="Member_settings_btn_MouseMove" MouseLeave="Member_settings_btn_MouseLeave" Click="Member_settings_btn_Click"/>
+            <Button x:Name="Books_btn" Style="{StaticResource not_Selected_btn}" Content="Books"   Background="Black" Height="60" Width="140" FontSize="30" Margin="0,0,0,0" MouseMove="Books_btn_MouseMove" MouseLeave="Books_btn_MouseLeave" Click="Books_btn_Click" />
+            <Button x:Name="Book_Settings_btn" Style="{StaticResource not_Selected_btn}" Content="Book Settings"    Background="Black" Height="60" Width="220" FontSize="30" Margin="8,0,0,0" Click="Book_Settings_btn_Click" MouseMove="Book_Settings_btn_MouseMove" MouseLeave="Book_Settings_btn_MouseLeave" />
+            <Button x:Name="Give_book_btn" Style="{StaticResource not_Selected_btn}" Content="Give Book"    Background="Black" Height="60" Width="170" FontSize="30" Margin="8,0,0,0" Click="Give_book_btn_Click" MouseMove="Give_book_btn_MouseMove" MouseLeave="Give_book_btn_MouseLeave" />
+
+
+        </StackPanel>
+
+
+    </Grid>
+</Window>
