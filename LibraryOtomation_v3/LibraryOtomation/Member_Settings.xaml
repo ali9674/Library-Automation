@@ -1,0 +1,107 @@
+﻿<Page x:Class="LibraryOtomation.Member_Settings"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LibraryOtomation"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Member_Settings">
+
+    <Grid>
+        <WrapPanel VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,0,0,30">
+            <Viewbox>
+                <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Width="850" Height="427" Background="#222222">
+                    <Border BorderBrush="Black" CornerRadius="15" BorderThickness="0" Background="#111111" Height="300" Width="500" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="1,0,0,0" >
+                        <Grid Background="Transparent">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="3*"/>
+                                <ColumnDefinition Width="2.4*"/>
+
+
+                            </Grid.ColumnDefinitions>
+
+                            <Grid Grid.Column="1" Background="Transparent">
+                                <!-- members ekranı sağ taraf (üye bilgileri)-->
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="1.4*"/>
+                                    <RowDefinition Height="1.4*"/>
+                                    <RowDefinition  Height="1.4*" />
+                                    <RowDefinition Height="1.4*"/>
+                                    <RowDefinition Height="1.1*"/>
+
+                                </Grid.RowDefinitions>
+
+                                <TextBox x:Name="memberid_txtbox" Grid.Row="0" Style="{StaticResource Oranga_Background_btn}" Width="200" VerticalAlignment="Bottom" Margin="0,0,20,-1"  CaretBrush="#ffffff" Padding="6" IsEnabled="False"/>
+                                <TextBlock Grid.Row="0" Name="member_id_txtblock" Text="Member ID" VerticalAlignment="Center" Margin="10,0,0,14" HorizontalAlignment="Left"
+                                 FontFamily="Montserrat" Foreground="#ffffff" FontSize="16" />
+                                <!--Grid row= 1  için -->
+                                <TextBox x:Name="name_surname_txtbox" Grid.Row="1" Style="{StaticResource Oranga_Background_btn}" Width="200" VerticalAlignment="Bottom" Margin="0,0,20,4"  CaretBrush="#ffffff" Padding="6"/>
+                                <TextBlock Grid.Row="1" Name="name_surname_txtblock" Text="Name - Surname" VerticalAlignment="Top" Margin="10,7,0,14" HorizontalAlignment="Left"
+                                FontFamily="Montserrat" Foreground="#ffffff" FontSize="16" />
+                                <!--Grid row =2 için -->
+                                <TextBox x:Name="phonenumber_txtbox" Grid.Row="2" Style="{StaticResource Oranga_Background_btn}" Width="200" VerticalAlignment="Bottom" Margin="0,4,20,11"  CaretBrush="#ffffff" Padding="6"/>
+                                <TextBlock Grid.Row="2" Name="phonenumber_txtblock" Text="Phone Number" Margin="10,0,0,42" HorizontalAlignment="Left"
+                                FontFamily="Montserrat" Foreground="#ffffff" FontSize="16" />
+                                <!-- Grid row =3 için-->
+                                <TextBox x:Name="books_txtbox" Grid.Row="4" Style="{StaticResource Oranga_Background_btn}" Width="200" VerticalAlignment="Bottom" Margin="0,0,20,8"  CaretBrush="#ffffff" Padding="6" IsEnabled="False"/>
+                                <TextBlock Grid.Row="4" Name="books_txtblock" Text="Books" VerticalAlignment="Top" Margin="10,-7,0,10" HorizontalAlignment="Left"
+FontFamily="Montserrat" Foreground="#ffffff" FontSize="16" />
+                                <!--Grid row=4 için -->
+                                <TextBox x:Name="tc_txtbox" Grid.Row="3" Style="{StaticResource Oranga_Background_btn}" Width="200" VerticalAlignment="Top" Margin="1,19,21,0"  CaretBrush="#ffffff" Padding="6"/>
+                                <TextBlock Grid.Row="3" Name="tc_txtblock" Text="TC Number" VerticalAlignment="Top" Margin="10,0,0,0" HorizontalAlignment="Left"
+FontFamily="Montserrat" Foreground="#ffffff" FontSize="16" />
+
+                            </Grid>
+                            <!--sol taraf için kodlar -->
+                            <Grid Grid.Column="0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="106*"/>
+                                    <RowDefinition Height="79*"/>
+                                    <RowDefinition Height="115*"/>
+
+                                </Grid.RowDefinitions>
+
+                                <TextBox x:Name="uye_ara_memberstts_txtbox" Padding="28,0,0,0"    Width="220" Height="30" Margin="10,14,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" CaretBrush="#ffffff" TextChanged="uye_ara_memberstts_txtbox_TextChanged" KeyDown="uye_ara_memberstts_txtbox_KeyDown" />
+
+                                <TextBlock Opacity="0.5" x:Name="txtblock_uyearama_memberstts" Text="Üye Arama" VerticalAlignment="Top" Margin="82,20,0,0" HorizontalAlignment="Left"
+FontFamily="Bahnschrift" Foreground="#111111 " FontWeight="Light" FontSize="15" Panel.ZIndex="-1" Height="18" Width="74" />
+
+                                <Border VerticalAlignment="Top" Height="30"  Panel.ZIndex="-2" CornerRadius="8" Margin="10,14,0,0" Width="220" Background="#d06302" HorizontalAlignment="Left" />
+                                <Button x:Name="search_member_memberstts_btn" Style="{StaticResource Trasparent_oval_btn}" HorizontalAlignment="Left" Margin="5,14,0,0" VerticalAlignment="Top" Height="30" Width="41" Click="search_member_memberstts_btn_Click" KeyDown="search_member_memberstts_btn_KeyDown" >
+
+                                    <Image Source="/İcons/search_icon.png" Width="40" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                                </Button>
+
+                                <Button x:Name="add_member_btn" Grid.Row="1" Height="60" Width="120" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="12,0,0,0" Click="add_member_btn_Click">
+
+                                </Button>
+
+                                <!-- üye ekleme txtblocku-->
+                                <TextBlock Grid.Row="1" Name="add_member_txtblock" Text="  Add Member" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="66,12,0,0" FontFamily="Montserrat" Foreground="#ffffff" FontSize="14" TextWrapping="Wrap"  MaxWidth="80" IsHitTestVisible="False" Height="34" Width="55" />
+                                <!-- her bir tanımlı butonun altına koyuyorum o buotnun üzerine olması gerek çünkü-->
+                                <Button x:Name="delete_member_btn" Grid.Row="1" Height="60" Width="120" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,0,12,0" Click="delete_member_btn_Click"/>
+                                <!-- üye SİLME txtblocku-->
+                                <TextBlock Grid.Row="1" Name="delete_member_txtblock" Text="  Delete Member" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,12,23,0" FontFamily="Montserrat" Foreground="#ffffff" FontSize="14" TextWrapping="Wrap"  MaxWidth="80" IsHitTestVisible="False" Height="34" Width="53" />
+
+
+                                <Button x:Name="update_member_btn" Grid.Row="2" Height="60" Width="120" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="15,0,0,0" Click="update_member_btn_Click"/>
+                                <!-- üye güncelleme txtblocku-->
+                                <TextBlock Grid.Row="2" Name="update_member_txtblock" Text="  Update Member" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="64,12,0,0" FontFamily="Montserrat" Foreground="#ffffff" FontSize="14" TextWrapping="Wrap"  MaxWidth="80" IsHitTestVisible="False" Height="34" Width="53"/>
+
+
+
+                            </Grid>
+
+
+                        </Grid>
+
+                    </Border>
+
+                </Grid>
+
+            </Viewbox>
+        </WrapPanel>
+    </Grid>
+</Page>

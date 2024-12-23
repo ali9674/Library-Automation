@@ -1,0 +1,2 @@
+*Member settings ekranı eklendi
+*Book search sorunu çözüldü 
